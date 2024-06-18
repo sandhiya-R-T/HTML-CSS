@@ -26,7 +26,7 @@
 ```HTML
 <html lang="en">
     <head>
-        <title>Document
+        <title>Document</title>
             <body>
                 guvi
     </head>
